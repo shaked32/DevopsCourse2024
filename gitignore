@@ -1,0 +1,6 @@
+# DevopsCourse2024
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+.DS_Store
